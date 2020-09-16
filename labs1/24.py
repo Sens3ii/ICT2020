@@ -1,0 +1,5 @@
+Days = int(input())
+Hours = int(input())
+Minutes = int(input())
+Seconds =int(input())
+print(Seconds+Minutes*60+Hours*60*60+Days+60*60*24,"sec")
