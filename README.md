@@ -1,2 +1,2 @@
 # ICT2020
-HomeWorks 
+ICT 2020 KBTU 
